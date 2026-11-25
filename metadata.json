@@ -1,0 +1,6 @@
+{
+  "name": "ClearMind",
+  "description": "A friendly drug education, AI support, and daily recovery web app for students in English, Hausa, Yoruba, and Igbo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
